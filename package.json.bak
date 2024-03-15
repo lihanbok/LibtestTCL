@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "luffy",
+  "author": "lihanbok",
   "license": "ISC",
   "dependencies": {
     "@types/mongoose": "^4.7.23",
